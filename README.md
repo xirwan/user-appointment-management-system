@@ -33,8 +33,8 @@
 ![Create Appointment Page](screenshot/create_appointment.png)
 
 ## Credit
-- Login and register page desain from https://www.codingnepalweb.com/registration-signup-form-template-html-css/
-- Dashboard page desain from https://startbootstrap.com/template/sb-admin
+- Login and register page design from https://www.codingnepalweb.com/registration-signup-form-template-html-css/
+- Dashboard page design from https://startbootstrap.com/template/sb-admin
 
 ## Auhtor
 - Irwan
