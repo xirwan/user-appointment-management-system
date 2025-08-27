@@ -12,9 +12,11 @@
 
 6. Run php artisan migrate.
 
-7. Run php artisan serve.
+7. Run php artisan storage:link
 
-8. The application is ready to use.
+8. Run php artisan serve.
+
+9. The application is ready to use.
 
 ## Front End
 ### Login & Register Page
