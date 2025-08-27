@@ -12,7 +12,7 @@
 
 6. Run php artisan migrate.
 
-7. Run php artisan storage:link
+7. Run php artisan storage:link.
 
 8. Run php artisan serve.
 
